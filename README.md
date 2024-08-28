@@ -4,5 +4,4 @@
 This repository contains assignments and projects related to the NJPO course.
 
 Authors:
-Gabriel Gałęza
-Kacper Brunné
+Gabriel Gałęza, Kacper Brunné
